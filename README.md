@@ -95,6 +95,7 @@ int cost_v_product_delta =1000; //the smaller the velocity is, the larger the de
 int cost_diff_delta = 200; //300
 
 int cost_diff_a = 10;  //125
+
 ---
 
 ## Dependencies
